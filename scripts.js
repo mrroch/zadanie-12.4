@@ -15,3 +15,4 @@ function getJoke() {
     });
     xhr.send();
 }
+getJoke();
